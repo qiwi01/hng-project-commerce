@@ -1,0 +1,64 @@
+@media (max-width: 767px) {
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+}
+
+
+@media (min-width: 1025px){
+    .review-body{
+        width: 100%;
+        background-color: antiquewhite;
+       height: 1300px;
+       display: flex;
+       justify-content: center;
+    }
+    .rv{
+        margin-top: 320px;
+        width:90%;
+        height:505px;
+        gap: 61px;
+        opacity: 0px;
+
+    }
+    .rv h4{
+        font-family: Work Sans;
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 70.38px;
+        letter-spacing: -0.02em;
+        text-align: left;
+        color: #000000;
+        ;
+    }
+    .rv-container{
+        display: flex;
+        height: 400px;
+        justify-content: center;
+        justify-content: space-between;
+        margin-top: 100px;
+
+    }
+    .rv-content1, .rv-content2, .rv-content3{
+        width: 28%;
+        height: 374px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 3%;
+        background-color: aliceblue;
+
+    }
+    .rv-content1 img, .rv-content2 img, .rv-content3 img{
+        height: 100px;
+        width: 100px;
+        object-fit: cover;
+        display: block;
+        margin-top: 228rem;
+        margin-right: 200px;
+    }
+
+}
