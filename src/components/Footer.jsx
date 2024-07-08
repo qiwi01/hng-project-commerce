@@ -26,7 +26,7 @@ const Footer = () => {
                    FOR ENQUIRIES
                 </h4>
                 <p>
-                    +234 567 890
+                    +234 567 8905
                 </p>
             </div>
         </div>

@@ -7,7 +7,7 @@ const Home = () => {
   return (
     <>
     <Header/>
-    <Product/>
+    {/* <Product/> */}
 
     <Footer/>
     </>
