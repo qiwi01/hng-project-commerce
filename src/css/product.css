@@ -1,0 +1,65 @@
+@media (max-width: 767px) {
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+}
+
+
+@media (min-width: 1025px){
+    .product-body{
+        background-color:antiquewhite;
+       height: 2418px;
+       width: 100%;
+    }
+    .pd-header{
+        height: 131px;
+        width: 479px;
+        background-color: aliceblue;
+    }
+    .pd-header h4{
+        font-family: "Work Sans";
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 70.38px;
+        letter-spacing: -0.02rem;
+        text-align: left;
+        color: black;
+    }
+    .pd-header p{
+        font-family: "Work Sans";
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23.46px;
+        letter-spacing: 0.01em;
+        text-align: left;
+        color:#42494C;
+    }
+    .pd-content{
+        height: 2161px;
+        width: 80%;
+        background-color: rgb(239, 239, 249);
+        /* gap: 16px; */
+    }
+    .pd-container1{
+        height: 634px;
+        width: 100%;
+        background-color: rgb(8, 8, 229);
+    }
+    .pd-1{
+        height: 604px;
+        width: 390px;
+        background-color: rgb(240, 240, 244);
+    }
+    .pd-1img{
+        height: 300px;
+        width: 30%;
+    }
+    .pd-footer{
+        height: 37px;
+        width: 80%;
+        background-color: aquamarine;
+        /* gap: 32px; */
+    }
+}

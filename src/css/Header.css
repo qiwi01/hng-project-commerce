@@ -1,0 +1,93 @@
+
+
+@media (max-width: 767px) {
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){
+}
+
+
+@media (min-width: 1025px){
+    .header-body{
+        background-color: antiquewhite;
+        width: 100%;
+        height: 792px;
+        justify-content: center;
+    }
+    .hd-main{
+        width: 100%;
+        height:339px;
+        /* margin-left: 305px; */
+        display: flex;
+    }
+    .hd-main h1{
+        font-family: Figtree;
+        font-size: 225px;
+        font-weight: 900;
+        line-height: 338.01px;
+        letter-spacing: -5px;
+        text-align: left;
+
+    }
+    .hd-content{
+        margin-left: 171px;
+        width: 577px;
+        height: 199px;
+        
+    }
+    .hd-content p{
+        font-size: 20px;
+        width: 478px;
+        font-weight: 400;
+    }
+    .hd-button{
+        display: flex;
+        width: 463px;
+        height: 55px;
+        margin-top: 52px;
+        justify-content: space-between;
+    }
+    .hd-button1{
+        width: 252px;
+        height: 55px;
+        background-color: orange;
+        border-radius: 360px;
+        padding: 16px 46px 16px 46px;
+        opacity: 0px;
+
+    }
+    .hd-button1 h6{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 23.46px;
+        color: white;
+    }
+    .hd-button2 h6{
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 23.46px;
+        color: orange;
+    }
+    .hd-button2{
+        background-color: transparent;
+        outline: 2px solid orange;
+        width: 176px;
+        height: 55px;
+        padding: 16px 46px 16px 46px;
+        border: 2px 0px 0px 0px;
+        border-radius: 360px;
+        opacity: 0px;
+    }
+    img{
+        width: 90%;
+        height: 700px;
+        top: 80px;
+        position: absolute;
+        outline: none;
+        border-radius: none;
+    }
+}
+
+
