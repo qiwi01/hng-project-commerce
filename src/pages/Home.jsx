@@ -1,14 +1,16 @@
 import React from 'react'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
-import Product from '../components/product'
 import Review from '../components/Review'
+import Productdetail from '../components/Productdetail'
+import Menu from '../components/Nav'
 
 const Home = () => {
   return (
     <>
+    {/* <Menu/> */}
     <Header/>
-    <Product/>
+    <Productdetail/>
     <Review/>
     <Footer/>
     </>

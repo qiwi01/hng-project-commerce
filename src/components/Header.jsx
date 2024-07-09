@@ -1,4 +1,4 @@
-import React from 'react'
+import React  from 'react'
 import "../css/Header.css"
 import coffeeimg from "../images/coffe 1.png"
 const Header = () => {
